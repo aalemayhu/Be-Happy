@@ -11,7 +11,7 @@ namespace BeHappy
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new TodoListPage());            
         }
 
         protected override void OnStart()
