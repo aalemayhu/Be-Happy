@@ -5,4 +5,4 @@ Code I wrote during [Workshop: Smarter apps with Artificial Intelligence (AI)](h
 ## Screenshot
 
 
-![GitHub/screenshot.png]
+![screenshot](GitHub/screenshot.png)
