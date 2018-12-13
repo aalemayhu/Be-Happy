@@ -23,5 +23,6 @@
     <Folder Include="Services\" />
     <Folder Include="Models\" />
     <Folder Include="Repositories\" />
+    <Folder Include="Models\Face\" />
   </ItemGroup>
 </Project>
