@@ -1,4 +1,5 @@
 ﻿using System;
+using XamAI.Services;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -7,6 +8,7 @@ namespace BeHappy
 {
     public partial class App : Application
     {
+
         public App()
         {
             InitializeComponent();

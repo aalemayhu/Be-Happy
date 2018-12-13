@@ -17,6 +17,7 @@
   <ItemGroup>
     <Compile Remove="MainPage.xaml.cs" />
     <Compile Remove="TodoListPaste.cs" />
+    <Compile Remove="Services\Constants.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\" />

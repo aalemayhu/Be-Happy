@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="BeHappy.TodoListPage" Title="Be Happy" BackgroundColor="Aqua">
     <ContentPage.Content>
-        <StackLayout>
-            <Image x:Name="image" Grid.Row="1"/>
-            <Button x:Name="CameraButton" Text="Ta bilde" Grid.Row="1" />
-        </StackLayout>
+        <ScrollView>
+            <Image x:Name="image" WidthRequest="800" HeightRequest="800"/>
+            <Button FontSize="60" x:Name="CameraButton" Text="Ta bilde" Grid.Row="1" />
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
